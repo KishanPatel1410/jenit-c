@@ -1,0 +1,42 @@
+pi = 3.14
+ 
+constant value 
+c ma constant value store karay sake
+
+
+int en=43;//variable
+const int pi=3.14;
+
+
+
+
+datatype variable name = value;
+float pi =3.14;//pi nam na variable ma 3.14 value store kari 
+  
+
+
+
+
+
+
+// variable ---> variable is a container to store the data into memory
+
+
+
+like if we want to store the data of integer that value is suppose 5 then int a=5; now a is a name of that memory block in which the 5 is store and 5 the value is integer type .
+
+
+
+
+OPRATORS:
+OPRATORS IS A LIKE DOCTOR.
+THEY DO OPRATIONS ON OUR DATA.
+
+THEY NEED 2 OPRANDS.
+
+NOW WHAT IS OPRAND?
+
+SO OPRAND IS LIKE A COUPLE .
+IF THEY DO SEX . THEN A BABY IS COME .
+WHICH IS OPRATED BY OPRACTOR(DOCTOR).
+AND RESULT AS A BABY WHICH YOU GET.
