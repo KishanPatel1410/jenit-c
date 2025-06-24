@@ -1,0 +1,21 @@
+					conditional statements
+						|
+				------------------------------------------------
+				|          |             |         |          |
+				simple    nested 	ladder     if-else    switch
+				if         if-else      if-else
+
+
+
+jyare tare koi aek vastu select karvi hoy tyare conditional statement vaparay 
+atle ke koi condition check karai ne output levu hoy tyare.
+
+for ex. If we want to check the given number is positive or negative then we have just a ans whether number is positive or negative . so at that time we use simple if statement 
+
+
+NOW QUEATION IS THAT HOW WE USE IT ?
+
+IF(NO>0)
+{
+printf("\nno is positive");
+}
