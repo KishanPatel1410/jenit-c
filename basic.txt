@@ -1,0 +1,22 @@
+#include<Stdio.h>
+void main()
+{
+PRINTF("");
+
+RETURN 0;	
+}
+
+
+#---->pre proceeror 
+stdio.h----> standard input /op lib/.HEADER FILE
+void ----> khali ---nothing
+main()---->function
+{} syntax
+
+
+
+
+C DENNIS RITCHIE 
+PRINTF---->BOOK 
+SCANF
+  

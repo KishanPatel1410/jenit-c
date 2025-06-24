@@ -1,0 +1,20 @@
+										DATA TYPES 
+	//memory --- byte 
+							
+									1.PRIMARIARY     2. DERIVED      3.USER-DEFINED
+
+
+1.PRIMARY
+1.1- INT ----- NUMBERS(DATA) 4 BYTE KATO 2 BYTE 
+      |	        32 BIT     64 BIT 
+      |		2 BYTE     4 BYTE --->1 BYTE --8 BIT --->1 bit --- 1 character ---0 or 1 
+      TYPE
+
+1.2 CHAR ---=-> 'a' ,'b' etc.--2 byte 
+1.3-- DOUBLE---->7.875978698785--->8 byte ---> . pachi 13-14 axar store kare 
+1.4 FLOAT ---> 0.1,9.4 etc----4 byte---0 . pachi 7-8 axar store karse 
+
+1.5 BOOL----> true  false      1 byte 
+ 		1     0
+
+'a' --- 10101010101001010 ---->2 byte
