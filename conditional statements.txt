@@ -19,3 +19,8 @@ IF(NO>0)
 {
 printf("\nno is positive");
 }
+
+
+
+1.)IF SATEMENT 
+
